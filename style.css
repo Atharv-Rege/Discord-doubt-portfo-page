@@ -1091,6 +1091,11 @@ section {
   transition: 0.4s;
   border-radius: 5px;
 }
+
+#contact #message-box{
+  text-align: center;
+}
+
 .contact .php-email-form button[type=submit]:hover {
   background: #ffc85a;
 }
@@ -1181,11 +1186,6 @@ section {
 .row {
   margin-left: 0px;
   margin-right: 0px;
-}
-.message-box {
-  margin-left: 0px;
-  margin-right: 0px;
-  align-self: center;
 }
 
 
